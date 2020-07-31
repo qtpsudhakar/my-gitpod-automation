@@ -7,9 +7,9 @@ USER root
 RUN apt-get update                                             \
     && apt-get install -y libgtk-3-dev firefox                 \
     
-    && apt-get sh -c "echo 'deb http://dl.google.com/linux/chrome/deb/ stable main' >>   /etc/apt/sources.list"  \
+    && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  \
     && apt-get update                                           \
-    && apt-get install -y libgtk-3-dev google-chrome-stable    \
+    && apt install ./google-chrome-stable_current_amd64.deb    \
     && apt-get clean && rm -rf /var/cache/apt/* && rm -rf /var/lib/apt/lists/* && rm -rf /tmp/*
 
 
