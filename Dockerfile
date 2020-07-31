@@ -5,8 +5,7 @@ USER root
 
 # Install dependencies
 RUN apt-get update                                             \
-    && apt-get install -y libgtk-3-dev firefox                 \
-    
+    && apt-get install -y libgtk-3-dev firefox                 \    
     && wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb  \
     && apt-get update                                           \
     && apt install ./google-chrome-stable_current_amd64.deb    \
