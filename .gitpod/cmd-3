@@ -1,0 +1,1 @@
+chmod +x a01-run-go.sh              && chmod +x a02-run-firefox.sh

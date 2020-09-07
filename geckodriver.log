@@ -1,0 +1,42 @@
+1599498540506	geckodriver	INFO	Listening on 127.0.0.1:57515
+1599498540512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZkYtah"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599498544380	Marionette	INFO	Listening on port 43255
+1599498544435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599498549447	Marionette	INFO	Stopped listening on port 43255
+1599498558621	geckodriver	INFO	Listening on 127.0.0.1:45405
+1599498558623	geckodriver	INFO	Listening on 127.0.0.1:50675
+1599498558695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebmQr8o"
+1599498558695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepTJ7FE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599498563134	Marionette	INFO	Listening on port 37149
+1599498563174	Marionette	INFO	Listening on port 40019
+1599498563217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599498563220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599498568172	Marionette	INFO	Stopped listening on port 37149
+1599498568219	Marionette	INFO	Stopped listening on port 40019
+1599498575744	geckodriver	INFO	Listening on 127.0.0.1:57125
+1599498575752	geckodriver	INFO	Listening on 127.0.0.1:35207
+1599498575806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileouW6uu"
+1599498575807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFRkZsa"
+
+(firefox:9046): GLib-CRITICAL **: 17:09:38.352: Failed to set scheduler settings: Operation not permitted
+
+(firefox:9046): GLib-CRITICAL **: 17:09:38.353: Failed to set scheduler settings: Operation not permitted
+
+(firefox:9046): GLib-CRITICAL **: 17:09:38.353: Failed to set scheduler settings: Operation not permitted
+
+(firefox:9047): GLib-CRITICAL **: 17:09:38.445: Failed to set scheduler settings: Operation not permitted
+
+(firefox:9047): GLib-CRITICAL **: 17:09:38.445: Failed to set scheduler settings: Operation not permitted
+
+(firefox:9047): GLib-CRITICAL **: 17:09:38.445: Failed to set scheduler settings: Operation not permitted
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599498581263	Marionette	INFO	Listening on port 41291
+1599498581282	Marionette	INFO	Listening on port 44255
+1599498581334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599498581344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599498586064	Marionette	INFO	Stopped listening on port 44255
+1599498586111	Marionette	INFO	Stopped listening on port 41291
