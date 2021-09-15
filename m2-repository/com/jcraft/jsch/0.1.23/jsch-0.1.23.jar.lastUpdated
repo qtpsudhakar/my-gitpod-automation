@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 15 09:04:55 UTC 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1631696695564
+http\://0.0.0.0/.error=Could not transfer artifact com.jcraft\:jsch\:jar\:0.1.23 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [apache.snapshots (http\://repository.apache.org/snapshots, default, snapshots), snapshots (http\://snapshots.maven.codehaus.org/maven2, default, snapshots), central (http\://repo1.maven.org/maven2, default, releases)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1631696695521
